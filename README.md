@@ -1,6 +1,6 @@
-# vue-cli
+# Demo Vue Project
 
-> A Vue.js project
+This quote app is built on Vue. Users can add and delete quotes on the app. As this is a demo project, the data does not persist.
 
 ## Build Setup
 
@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
